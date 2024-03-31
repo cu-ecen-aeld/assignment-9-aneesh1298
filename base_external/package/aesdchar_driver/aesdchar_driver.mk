@@ -5,8 +5,7 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 8 git contents
-AESDCHAR_DRIVER_VERSION = 'c4854763bddd87a78fd46b33d3b8d73c6a78a636'
-#AESDCHAR_DRIVER_VERSION = 'ab8df669a89cf2a89645ebc99ea2d10a186e0a96'
+AESDCHAR_DRIVER_VERSION = 'e21b000da5227b163edc21bb3ef2dd02aacf97d8'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # Your site should start with git@github.com:
 AESDCHAR_DRIVER_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-aneesh1298.git'
