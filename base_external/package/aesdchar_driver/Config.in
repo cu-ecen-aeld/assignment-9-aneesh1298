@@ -1,4 +1,6 @@
 config BR2_PACKAGE_AESDCHAR_DRIVER
 	bool "aesdchar_driver"
 	help
-	  Building and Installing the aesdchar driver in rootfs.
+	  Building and Installing the aesdchar driver in rootfs. 
+
+
